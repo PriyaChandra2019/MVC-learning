@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: OdeToFood.Web, Configuration: Debug Any CPU ------
+1>  OdeToFood.Web -> C:\Users\Chand\Desktop\MVC\OdeToFood\OdeToFood.Web\bin\OdeToFood.Web.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
